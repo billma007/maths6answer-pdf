@@ -14,7 +14,7 @@
 
 ## 更快地访问？/A faster loading
 
-[可以使用jsdelivr cdn加速访问](cdn.jsdelivr.net/gh/billma007/maths6answer/)
+[可以使用jsdelivr cdn加速访问](https://cdn.jsdelivr.net/gh/billma007/maths6answer/)
 
 ## 贡献者/Contributors
 
