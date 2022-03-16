@@ -15,10 +15,13 @@
 ## 更快地访问？/A faster loading
 
 [可以使用jsdelivr cdn加速访问](https://cdn.jsdelivr.net/gh/billma007/maths6answer-pdf/)
+[在非中国大陆地区访问](https://github.com/billma007/maths6answer-pdf/)
+[Gitee仓库](https://gitee.com/billma007/maths6answer-pdf/)
 
 ## 贡献者/Contributors
 
-[billma007](https://github.com/billma007)
+[GitHub-billma007](https://github.com/billma007)
+[Gitee-billma007](https://gitee.com/billma007)
 
 ## LICENSE
 
